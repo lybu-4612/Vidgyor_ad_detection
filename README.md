@@ -1,3 +1,13 @@
+For Vidgyor 
+The attachments in mail
+1) final code to find ads in a given video and their duration  (ad_detection.py)
+2) image fetched from one of the videos for masking (img_19.jpg)
+3) trained Keras model for detection( trained over 2700 images for each class, used mobile net transfer learning (tv_ad_224.h5)
+
+
+
+
+
 # tv_ad_detection
 Sample Input Video Files:  (Please check these out)
 https://mkvidupload.s3.amazonaws.com/livetvrecordings/11-31-06.mp4
